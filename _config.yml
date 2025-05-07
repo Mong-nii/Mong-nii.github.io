@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
+title                    : "공부"
+title_separator          : "배워가는중"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://Mong-nii.github.io
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "LeeYoungJun"
+  pronouns         : "he"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Gyeonggi-do,Gimpo-si"
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "coco77852@naver.com" 
 
   # Academic websites
   academia         : # URL
